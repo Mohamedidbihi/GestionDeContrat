@@ -1,0 +1,32 @@
+C:\Users\william\Desktop\visual studio\word\word\obj\Debug\word.csprojResolveAssemblyReference.cache
+C:\Users\william\Desktop\visual studio\word\word\obj\Debug\word.csproj.ResolveComReference.cache
+C:\Users\william\Desktop\visual studio\word\word\obj\Debug\word.Form1.resources
+C:\Users\william\Desktop\visual studio\word\word\obj\Debug\word.Properties.Resources.resources
+C:\Users\william\Desktop\visual studio\word\word\obj\Debug\word.csproj.GenerateResource.Cache
+C:\Users\william\Desktop\visual studio\word\word\obj\Debug\word.csproj.CoreCompileInputs.cache
+C:\Users\william\Desktop\visual studio\word\word\bin\Debug\word.exe.config
+C:\Users\william\Desktop\visual studio\word\word\bin\Debug\word.exe
+C:\Users\william\Desktop\visual studio\word\word\bin\Debug\word.pdb
+C:\Users\william\Desktop\visual studio\word\word\obj\Debug\word.exe
+C:\Users\william\Desktop\visual studio\word\word\obj\Debug\word.pdb
+C:\Users\william\Desktop\visual studio\word\word\bin\Debug\Bunifu_UI_v1.52.dll
+C:\Users\HP PROBOOK\Desktop\Word\Word\word\bin\Debug\word.exe.config
+C:\Users\HP PROBOOK\Desktop\Word\Word\word\obj\Debug\word.csproj.ResolveComReference.cache
+C:\Users\HP PROBOOK\Desktop\Word\Word\word\obj\Debug\word.exe
+C:\Users\HP PROBOOK\Desktop\Word\Word\word\obj\Debug\word.pdb
+C:\Users\HP PROBOOK\Desktop\Word\Word\word\bin\Debug\word.exe
+C:\Users\HP PROBOOK\Desktop\Word\Word\word\bin\Debug\word.pdb
+C:\Users\HP PROBOOK\Desktop\Word\Word\word\obj\Debug\word.Form1.resources
+C:\Users\HP PROBOOK\Desktop\Word\Word\word\obj\Debug\word.Properties.Resources.resources
+C:\Users\HP PROBOOK\Desktop\Word\Word\word\obj\Debug\word.csproj.GenerateResource.Cache
+C:\Users\admin\Desktop\Gestion de contrat\Word\word\bin\Debug\word.exe.config
+C:\Users\admin\Desktop\Gestion de contrat\Word\word\bin\Debug\word.exe
+C:\Users\admin\Desktop\Gestion de contrat\Word\word\bin\Debug\word.pdb
+C:\Users\admin\Desktop\Gestion de contrat\Word\word\obj\Debug\word.csproj.ResolveComReference.cache
+C:\Users\admin\Desktop\Gestion de contrat\Word\word\obj\Debug\word.Form1.resources
+C:\Users\admin\Desktop\Gestion de contrat\Word\word\obj\Debug\word.Properties.Resources.resources
+C:\Users\admin\Desktop\Gestion de contrat\Word\word\obj\Debug\word.csproj.GenerateResource.cache
+C:\Users\admin\Desktop\Gestion de contrat\Word\word\obj\Debug\word.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\Gestion de contrat\Word\word\obj\Debug\word.exe
+C:\Users\admin\Desktop\Gestion de contrat\Word\word\obj\Debug\word.pdb
+C:\Users\admin\Desktop\Gestion de contrat\Word\word\obj\Debug\word.Form2.resources
